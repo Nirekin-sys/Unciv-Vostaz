@@ -1,0 +1,17 @@
+[
+	{
+		"name": "Guardsman",
+		"unitType": "Melee",
+		"uniqueTo": "Vostaz",
+		"replaces": "Great War Infantry",
+		"movement": 1,
+		"strength": 75,
+		"cost": 300,
+		"requiredTech": "Replaceable Parts",
+		"hurryCostModifier": 20,
+		"upgradesTo": "Infantry",
+		"obsoleteTech": "Plastics",
+		"promotions": ["Sentry","Cover II"],
+		"attackSound": "shot"
+	}
+]
