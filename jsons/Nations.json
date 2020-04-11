@@ -1,0 +1,29 @@
+[
+	{
+		"name": "Vostaz",
+		"leaderName": "Premier Varno",
+		"adjective": ["Vostazic"],
+		"startBias": ["Avoid Desert"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "May the blessings of heaven be upon you, O great Nebuchadnezzar, father of mighty and ancient Babylon! Young was the world when Sargon built Babylon some five thousand years ago, long did it grow and prosper, gaining its first empire the eighteenth century BC, under godlike Hammurabi, the giver of law. Although conquered by the Kassites and then by the Assyrians, Babylon endured, emerging phoenix-like from its ashes of destruction and regaining its independence despite its many enemies. Truly was Babylon the center of arts and learning in the ancient world. O Nebuchadnezzar, your empire endured but a short time after your death, falling to the mighty Persians, and then to the Greeks, until the great city was destroyed by 141 BC.",
+		"startIntroPart2": "But is Babylon indeed gone forever, great Nebuchadnezzar? Your people look to you to bring the empire back to life once more. Will you accept the challenge? Will you build a civilization that will stand the test of time?",
+		
+		"declaringWar": "I can only tolerate a foreign intruder for so long.",
+		"attacked": "My people are resolute, my nation a fortress! You are a fool.",
+		"defeated": "This is not pain that I am feeling, it is the release of burden...",
+		"introduction": "Keep your boundaries, foreigner.",
+		
+		"neutralHello": "Make it quick.",
+		"hateHello": "Who let you in here? Guards, guards!",
+		
+		"tradeRequest": "It is not often that we make interactions of this sort.",
+				
+		"outerColor": [53,0,0],
+		"innerColor": [255,0,0],
+		"unique": "SIBERIAN_RICHES",
+		"cities": ["Varnograd","Khavkar","Berensk","Tagatov","Belossyisk","Noyalozhsk","Ulanza","Vladkin","Kryltaysk","Lesodrinsk",
+			"Dulkovo","Nazanetsk","Soyungri","Lyubekhladny","Magarnomysk","Stevaya","Zlaya","Narodnayagrad","Korokhna","Lesorkuta",
+			"Salamkhovo","Shchyodny","Khasargan","Vladizovsky","Obnidedovo","Anastroma","Borozny","Kovrobey","Novokubirsk","Chaykovda",
+			"Klipyevsk","Tyuslav","Belelchik","Dmishin","Pyaretsk","Zlavropol","Lyubegansk","Magninskoy","Vserkassk","Siryol"]
+	}
