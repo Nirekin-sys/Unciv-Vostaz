@@ -5,8 +5,6 @@
 		terrainsCanBeBuiltOn: ["Plains","Grassland","Desert","Hill","Tundra","Snow"],
 		turnsToBuild: 6,
 		techRequired: "Engineering",
-    "improvingTech": "Civil Service",
-		"improvingTechStats": {"gold": 2},
 		uniques: ["Deal 30 damage to adjacent enemy units"]
 	}
 ]
