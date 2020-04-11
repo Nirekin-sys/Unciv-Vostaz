@@ -6,7 +6,7 @@
 		turnsToBuild: 6,
 		techRequired: "Engineering",
 		"improvingTech": "Civil Service",
-		"improvingTechStats": {"gold": 2},
+		"improvingTechStats": {"gold": 1},
 		uniques: ["Deal 30 damage to adjacent enemy units"]
 	}
 ]
